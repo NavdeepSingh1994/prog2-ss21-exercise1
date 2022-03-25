@@ -6,6 +6,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
+// Repository: https://github.com/NavdeepSingh1994/prog2-ss21-exercise1.git
 class Puzzle1Test {
     private Puzzle1 puzzle1;
 
